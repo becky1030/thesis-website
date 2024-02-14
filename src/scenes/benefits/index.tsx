@@ -8,7 +8,7 @@ import {
 import HText from "@/shared/HText";
 import Benefit from "./Benefit";
 import ActionButton from "@/shared/ActionButton";
-import BenefitsPageGraphic from "@/assets/BenefitsPageGraphic.png";
+import BenefitsPageGraphic from "@/assets/model-3.png";
 
 const benefits: Array<BenefitType> = [
   {
